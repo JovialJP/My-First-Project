@@ -82,7 +82,7 @@ li {
 ABOUT
 
 */
-#about {
+#About {
     background-color: #f8ffdc; 
 }
 
@@ -107,7 +107,7 @@ img {
 }
 
 .section__description--wrapper {
-    width 60%; 
+    width: 60%; 
 }
 
 .about__img--wrapper,
@@ -127,7 +127,7 @@ DISCORD
 
 */
 
-#discord {
+#Discord {
     background-color: #cefeff;
 }
 
@@ -137,7 +137,7 @@ CONTACT
 
 */
 
-#contact {
+#Contact {
     background-color: #dce9ff;
 }
 
@@ -152,7 +152,7 @@ form {
 input, textarea {
     margin-bottom: 24px;
     font-size: 20px;
-    padding: 6px 12px
+    padding: 6px 12px;
 }
 
 /*
@@ -161,7 +161,7 @@ FOOTER
 
 */
 
-footer {
+.footer {
     background-color: #aaf5ff;
     display: flex;
     flex-direction: column;
